@@ -28,8 +28,8 @@
     "rehype-katex": "^1.2.0",
     "rehype-stringify": "^5.0.0",
     "remark-math": "^1.0.6",
-    "remark-parse": "^6.0.3",
-    "remark-rehype": "^4.0.0",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
     "unified": "^7.1.0",
     "unist-util-visit": "^2.0.0"
   }
